@@ -4,7 +4,7 @@
 
 # 324.StudentPerformanceManagementSystem
 
-<p>V：bishebao888888(sql文件)</p>
+<p>抠群: 983063232(sql文件)</p>
 <p>抠: 206157502(sql文件)</p>
 
 <p><h1 align="center">324.学生成绩管理系统</h1></p>
